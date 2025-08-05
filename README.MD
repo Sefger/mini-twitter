@@ -10,7 +10,7 @@ A message board built with Axum and Rust, featuring posts, comments, and customi
 
 - **Posts & Comments**: Full CRUD functionality for user-generated content
 - **Modern Stack**: Built with Rust's powerful async ecosystem
-- **Custom Styling**: Tailorable UI to match your brand
+- **Custom Styling**: Tailorable UI to match your brand (planned)
 - **Comprehensive Logging**: Detailed activity tracking
 
 ## 🛠️ Tech Stack
