@@ -3,7 +3,7 @@ use serde::{Serialize, Deserialize};
 use super::post::Post;
 use super::comments::Comments;
 #[derive(Serialize, Deserialize)]
-struct User{
+pub(crate) struct User{
     id:i32,
     name: String,
     surname: String,
